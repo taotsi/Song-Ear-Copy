@@ -1,0 +1,12 @@
+song by *Gerard Darmon*, in album *On S'Aime*
+a french song, love the melody
+
+#G minor
+
+VERSE:
+vi  III
+I   V
+
+CHORUS:
+ii  V
+I   III
