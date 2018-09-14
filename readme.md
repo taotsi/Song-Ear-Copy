@@ -1,6 +1,6 @@
 # Song Ear Copy
 
-Life sucks though, thank god we still got music.
+Life sucks. But we got music.
 
 ## Intro
 
