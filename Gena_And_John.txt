@@ -4,9 +4,9 @@ a french song, love the melody
 #G minor
 
 VERSE:
-vi  III
-I   V
+vi      III     #Gm     #D
+I       V        B       #F
 
 CHORUS:
-ii  V
-I   III
+ii      V       #Cm     #F
+I       III      B      #D
