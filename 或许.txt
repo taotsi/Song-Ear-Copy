@@ -1,0 +1,21 @@
+尹吾的歌，2018年出了新版本
+
+#F Major
+
+VERSE:
+I       V       vi      IV
+I       V       IV      V
+I       V       vi      IV
+I       V       I
+
+CHORUS:
+vi      iii     IV      V
+vi      iii     IV  V   I
+
+
+B Major (or E Lydian)
+
+LAST PART:
+IV      I       
+IV      V
+IV      I
