@@ -1,8 +1,9 @@
 compesd by **Andreas Waldetoft**, he's a genius.
 
+```
 G Minor
 
-there are three parts of chord progressions
+// there are three parts of chord progressions
 
 PART I: (0:18)
 vi      vi
@@ -13,6 +14,7 @@ vi      I       V       III
 
 PART III: (2:33)
 IV vi
+```
 
 ## about this song
 
